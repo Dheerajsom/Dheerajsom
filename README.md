@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Dheeraj Somashekar</h1>
 <h3 align="center">Computer Science & Engineering student @ UC Merced</h3>
 
-- 🌱 I’m currently learning **Python, C, and C++**
+- 🌱 I’m currently learning **C, C++, Pandas, Seaborn, NumPy, Matplotlib**
 
 - 📫 How to reach me **dheeru2605@gmail.com**
 
