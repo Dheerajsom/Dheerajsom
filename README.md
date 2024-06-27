@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Dheeraj Somashekar</h1>
-<h3 align="center">Computer Science & Engineering student @ UC Merced</h3>
+<h3 align="center">Pursuing a BS in Computer Engineering @ UT Dallas</h3>
 
 - 🌱 I’m currently learning **C, C++, Pandas, Seaborn, NumPy, and Matplotlib**
 
