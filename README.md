@@ -5,8 +5,6 @@
 
 - 📫 How to reach me **dheeru2605@gmail.com**
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/1v-pLaGfUuKKO55OE-EAaZXd2PKxypY-QyP_cSO6EGuk/edit?usp=sharing](https://docs.google.com/document/d/1v-pLaGfUuKKO55OE-EAaZXd2PKxypY-QyP_cSO6EGuk/edit?usp=sharing)
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/dheerajsomashekar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dheerajsomashekar" height="30" width="40" /></a>
