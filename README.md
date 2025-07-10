@@ -5,7 +5,7 @@
 
 ### About Me
 
-- 🌱 I’m currently diving deeper into **C, C++, Assembly, and Rust** for low-level programming and embedded systems. I'm also expanding my data analysis skills with **Pandas, Seaborn, NumPy, and Matplotlib**.
+- 🌱 I'm currently diving deeper into **C, C++, Assembly, and Rust** for low-level programming and embedded systems. I'm also expanding my data analysis skills with **Pandas, Seaborn, NumPy, and Matplotlib**.
 - 💡 Passionate about the intersection of hardware and software, exploring efficient and robust firmware solutions.
 - 🎓 Actively applying theoretical knowledge from my Computer Engineering curriculum to hands-on embedded projects.
 
@@ -15,7 +15,7 @@
 
 <p align="left">
 <a href="https://linkedin.com/in/dheerajsomashekar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dheerajsomashekar" height="30" width="40" /></a>
-<a href="mailto:dheeru2605@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="dheeru2605@gmail.com" height="30" width="40" /></a>
+<a href="mailto:dheeru2605@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="dheeru2605@gmail.com" height="30" width="40" /></a>
 </p>
 
 ---
@@ -31,6 +31,7 @@
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
-  <a href="https://www.rust-lang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" alt="rust" width="40" height="40"/> </a>
-  <img src="https://img.shields.io/badge/Assembly-0A6EA4?style=for-the-badge&logo=asm&logoColor=white" alt="Assembly" width="40" height="40"/> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
+  <a href="https://www.rust-lang.org" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg" alt="rust" width="40" height="40"/> </a>
+  <img src="https://img.shields.io/badge/Assembly-0A6EA4?style=for-the-badge&logo=asm&logoColor=white" alt="Assembly" width="40" height="40"/>
+  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
 </p>
